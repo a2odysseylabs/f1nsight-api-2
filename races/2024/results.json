@@ -6,7 +6,7 @@
         "raceName": "Bahrain Grand Prix",
         "Circuit": {
             "circuitId": "bahrain",
-            "url": "http://en.wikipedia.org/wiki/Bahrain_International_Circuit",
+            "url": "https://en.wikipedia.org/wiki/Bahrain_International_Circuit",
             "circuitName": "Bahrain International Circuit",
             "Location": {
                 "lat": "26.0325",
@@ -248,13 +248,9 @@
                 },
                 "FastestLap": {
                     "rank": "5",
-                    "lap": "1",
+                    "lap": "35",
                     "Time": {
                         "time": "1:34.476"
-                    },
-                    "AverageSpeed": {
-                        "units": "kph",
-                        "speed": "206.223"
                     }
                 }
             },
@@ -328,13 +324,9 @@
                 },
                 "FastestLap": {
                     "rank": "11",
-                    "lap": "1",
+                    "lap": "39",
                     "Time": {
                         "time": "1:34.983"
-                    },
-                    "AverageSpeed": {
-                        "units": "kph",
-                        "speed": "205.123"
                     }
                 }
             },
@@ -442,6 +434,10 @@
                 "grid": "17",
                 "laps": "56",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5511501",
+                    "time": "+6.759"
+                },
                 "FastestLap": {
                     "rank": "14",
                     "lap": "30",
@@ -478,6 +474,10 @@
                 "grid": "15",
                 "laps": "56",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5513058",
+                    "time": "+8.316"
+                },
                 "FastestLap": {
                     "rank": "15",
                     "lap": "34",
@@ -514,6 +514,10 @@
                 "grid": "14",
                 "laps": "56",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5513700",
+                    "time": "+8.958"
+                },
                 "FastestLap": {
                     "rank": "13",
                     "lap": "37",
@@ -550,6 +554,10 @@
                 "grid": "11",
                 "laps": "56",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5514224",
+                    "time": "+9.482"
+                },
                 "FastestLap": {
                     "rank": "18",
                     "lap": "37",
@@ -586,6 +594,10 @@
                 "grid": "13",
                 "laps": "56",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5516628",
+                    "time": "+11.886"
+                },
                 "FastestLap": {
                     "rank": "17",
                     "lap": "40",
@@ -622,6 +634,10 @@
                 "grid": "10",
                 "laps": "56",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5522374",
+                    "time": "+17.632"
+                },
                 "FastestLap": {
                     "rank": "10",
                     "lap": "46",
@@ -658,6 +674,10 @@
                 "grid": "19",
                 "laps": "56",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5536192",
+                    "time": "+31.450"
+                },
                 "FastestLap": {
                     "rank": "20",
                     "lap": "34",
@@ -694,6 +714,10 @@
                 "grid": "20",
                 "laps": "56",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5537159",
+                    "time": "+32.417"
+                },
                 "FastestLap": {
                     "rank": "9",
                     "lap": "45",
@@ -730,6 +754,10 @@
                 "grid": "16",
                 "laps": "56",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5587972",
+                    "time": "+1:23.230"
+                },
                 "FastestLap": {
                     "rank": "19",
                     "lap": "33",
@@ -766,6 +794,10 @@
                 "grid": "18",
                 "laps": "55",
                 "status": "+2 Laps",
+                "Time": {
+                    "millis": "5525537",
+                    "time": "+20.795"
+                },
                 "FastestLap": {
                     "rank": "8",
                     "lap": "42",
@@ -787,7 +819,7 @@
         "raceName": "Saudi Arabian Grand Prix",
         "Circuit": {
             "circuitId": "jeddah",
-            "url": "http://en.wikipedia.org/wiki/Jeddah_Street_Circuit",
+            "url": "https://en.wikipedia.org/wiki/Jeddah_Corniche_Circuit",
             "circuitName": "Jeddah Corniche Circuit",
             "Location": {
                 "lat": "21.6319",
@@ -864,8 +896,8 @@
                 "laps": "50",
                 "status": "Finished",
                 "Time": {
-                    "millis": "4862704",
-                    "time": "+13.6431"
+                    "millis": "4856916",
+                    "time": "+13.643"
                 },
                 "FastestLap": {
                     "rank": "8",
@@ -949,13 +981,9 @@
                 },
                 "FastestLap": {
                     "rank": "10",
-                    "lap": "1",
+                    "lap": "45",
                     "Time": {
                         "time": "1:32.310"
-                    },
-                    "AverageSpeed": {
-                        "units": "kph",
-                        "speed": "240.779"
                     }
                 }
             },
@@ -1109,13 +1137,9 @@
                 },
                 "FastestLap": {
                     "rank": "4",
-                    "lap": "1",
+                    "lap": "40",
                     "Time": {
                         "time": "1:31.944"
-                    },
-                    "AverageSpeed": {
-                        "units": "kph",
-                        "speed": "241.738"
                     }
                 }
             },
@@ -1264,8 +1288,8 @@
                 "laps": "50",
                 "status": "Finished",
                 "Time": {
-                    "millis": "4955646",
-                    "time": "+1:45.7373"
+                    "millis": "4949010",
+                    "time": "+1:45.737"
                 },
                 "FastestLap": {
                     "rank": "11",
@@ -1303,6 +1327,10 @@
                 "grid": "17",
                 "laps": "49",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "4847274",
+                    "time": "+4.001"
+                },
                 "FastestLap": {
                     "rank": "17",
                     "lap": "48",
@@ -1316,45 +1344,9 @@
                 }
             },
             {
-                "number": "2",
+                "number": "22",
                 "position": "14",
                 "positionText": "14",
-                "points": "0",
-                "Driver": {
-                    "driverId": "sargeant",
-                    "permanentNumber": "2",
-                    "code": "SAR",
-                    "url": "http://en.wikipedia.org/wiki/Logan_Sargeant",
-                    "givenName": "Logan",
-                    "familyName": "Sargeant",
-                    "dateOfBirth": "2000-12-31",
-                    "nationality": "American"
-                },
-                "Constructor": {
-                    "constructorId": "williams",
-                    "url": "http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering",
-                    "name": "Williams",
-                    "nationality": "British"
-                },
-                "grid": "19",
-                "laps": "49",
-                "status": "+1 Lap",
-                "FastestLap": {
-                    "rank": "18",
-                    "lap": "44",
-                    "Time": {
-                        "time": "1:33.523"
-                    },
-                    "AverageSpeed": {
-                        "units": "kph",
-                        "speed": "237.657"
-                    }
-                }
-            },
-            {
-                "number": "22",
-                "position": "15",
-                "positionText": "15",
                 "points": "0",
                 "Driver": {
                     "driverId": "tsunoda",
@@ -1375,15 +1367,51 @@
                 "grid": "9",
                 "laps": "49",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "4848806",
+                    "time": "+5.533"
+                },
+                "FastestLap": {
+                    "rank": "18",
+                    "lap": "44",
+                    "Time": {
+                        "time": "1:33.523"
+                    }
+                }
+            },
+            {
+                "number": "2",
+                "position": "15",
+                "positionText": "15",
+                "points": "0",
+                "Driver": {
+                    "driverId": "sargeant",
+                    "permanentNumber": "2",
+                    "code": "SAR",
+                    "url": "http://en.wikipedia.org/wiki/Logan_Sargeant",
+                    "givenName": "Logan",
+                    "familyName": "Sargeant",
+                    "dateOfBirth": "2000-12-31",
+                    "nationality": "American"
+                },
+                "Constructor": {
+                    "constructorId": "williams",
+                    "url": "http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering",
+                    "name": "Williams",
+                    "nationality": "British"
+                },
+                "grid": "19",
+                "laps": "49",
+                "status": "+1 Lap",
+                "Time": {
+                    "millis": "4850058",
+                    "time": "+6.785"
+                },
                 "FastestLap": {
                     "rank": "15",
                     "lap": "49",
                     "Time": {
                         "time": "1:33.026"
-                    },
-                    "AverageSpeed": {
-                        "units": "kph",
-                        "speed": "238.926"
                     }
                 }
             },
@@ -1411,6 +1439,10 @@
                 "grid": "14",
                 "laps": "49",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "4863988",
+                    "time": "+20.715"
+                },
                 "FastestLap": {
                     "rank": "16",
                     "lap": "47",
@@ -1447,6 +1479,10 @@
                 "grid": "16",
                 "laps": "49",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "4866388",
+                    "time": "+23.115"
+                },
                 "FastestLap": {
                     "rank": "14",
                     "lap": "49",
@@ -1483,6 +1519,10 @@
                 "grid": "20",
                 "laps": "49",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "4872826",
+                    "time": "+29.553"
+                },
                 "FastestLap": {
                     "rank": "6",
                     "lap": "49",
@@ -1565,7 +1605,7 @@
         "raceName": "Australian Grand Prix",
         "Circuit": {
             "circuitId": "albert_park",
-            "url": "http://en.wikipedia.org/wiki/Melbourne_Grand_Prix_Circuit",
+            "url": "https://en.wikipedia.org/wiki/Albert_Park_Circuit",
             "circuitName": "Albert Park Grand Prix Circuit",
             "Location": {
                 "lat": "-37.8497",
@@ -1687,13 +1727,9 @@
                 },
                 "FastestLap": {
                     "rank": "2",
-                    "lap": "1",
+                    "lap": "49",
                     "Time": {
                         "time": "1:19.915"
-                    },
-                    "AverageSpeed": {
-                        "units": "kph",
-                        "speed": "237.762"
                     }
                 }
             },
@@ -1727,13 +1763,9 @@
                 },
                 "FastestLap": {
                     "rank": "4",
-                    "lap": "1",
+                    "lap": "54",
                     "Time": {
                         "time": "1:20.199"
-                    },
-                    "AverageSpeed": {
-                        "units": "kph",
-                        "speed": "236.920"
                     }
                 }
             },
@@ -1961,6 +1993,10 @@
                 "grid": "14",
                 "laps": "57",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "4830924",
+                    "time": "+4.081"
+                },
                 "FastestLap": {
                     "rank": "9",
                     "lap": "44",
@@ -1997,6 +2033,10 @@
                 "grid": "12",
                 "laps": "57",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "4831852",
+                    "time": "+5.009"
+                },
                 "FastestLap": {
                     "rank": "17",
                     "lap": "46",
@@ -2033,6 +2073,10 @@
                 "grid": "18",
                 "laps": "57",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "4838351",
+                    "time": "+11.508"
+                },
                 "FastestLap": {
                     "rank": "13",
                     "lap": "46",
@@ -2069,6 +2113,10 @@
                 "grid": "17",
                 "laps": "57",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "4867796",
+                    "time": "+40.953"
+                },
                 "FastestLap": {
                     "rank": "10",
                     "lap": "51",
@@ -2105,6 +2153,10 @@
                 "grid": "13",
                 "laps": "57",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "4869169",
+                    "time": "+42.326"
+                },
                 "FastestLap": {
                     "rank": "16",
                     "lap": "48",
@@ -2141,6 +2193,10 @@
                 "grid": "19",
                 "laps": "57",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "4871136",
+                    "time": "+44.293"
+                },
                 "FastestLap": {
                     "rank": "14",
                     "lap": "49",
@@ -2177,6 +2233,10 @@
                 "grid": "15",
                 "laps": "57",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "4880822",
+                    "time": "+53.979"
+                },
                 "FastestLap": {
                     "rank": "15",
                     "lap": "45",
@@ -2213,6 +2273,10 @@
                 "grid": "7",
                 "laps": "56",
                 "status": "Accident",
+                "Time": {
+                    "millis": "4684734",
+                    "time": "+-1:57:37.891"
+                },
                 "FastestLap": {
                     "rank": "5",
                     "lap": "53",
@@ -2306,7 +2370,7 @@
         "raceName": "Japanese Grand Prix",
         "Circuit": {
             "circuitId": "suzuka",
-            "url": "http://en.wikipedia.org/wiki/Suzuka_Circuit",
+            "url": "https://en.wikipedia.org/wiki/Suzuka_International_Racing_Course",
             "circuitName": "Suzuka Circuit",
             "Location": {
                 "lat": "34.8431",
@@ -2508,13 +2572,9 @@
                 },
                 "FastestLap": {
                     "rank": "10",
-                    "lap": "1",
+                    "lap": "51",
                     "Time": {
                         "time": "1:35.186"
-                    },
-                    "AverageSpeed": {
-                        "units": "kph",
-                        "speed": "219.624"
                     }
                 }
             },
@@ -2628,13 +2688,9 @@
                 },
                 "FastestLap": {
                     "rank": "7",
-                    "lap": "1",
+                    "lap": "35",
                     "Time": {
                         "time": "1:34.802"
-                    },
-                    "AverageSpeed": {
-                        "units": "kph",
-                        "speed": "220.514"
                     }
                 }
             },
@@ -2702,6 +2758,10 @@
                 "grid": "10",
                 "laps": "52",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "6865168",
+                    "time": "+1.602"
+                },
                 "FastestLap": {
                     "rank": "14",
                     "lap": "51",
@@ -2738,6 +2798,10 @@
                 "grid": "12",
                 "laps": "52",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "6870734",
+                    "time": "+7.168"
+                },
                 "FastestLap": {
                     "rank": "11",
                     "lap": "52",
@@ -2774,6 +2838,10 @@
                 "grid": "16",
                 "laps": "52",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "6874799",
+                    "time": "+11.233"
+                },
                 "FastestLap": {
                     "rank": "12",
                     "lap": "41",
@@ -2810,6 +2878,10 @@
                 "grid": "18",
                 "laps": "52",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "6881485",
+                    "time": "+17.919"
+                },
                 "FastestLap": {
                     "rank": "17",
                     "lap": "24",
@@ -2846,6 +2918,10 @@
                 "grid": "13",
                 "laps": "52",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "6882459",
+                    "time": "+18.893"
+                },
                 "FastestLap": {
                     "rank": "15",
                     "lap": "25",
@@ -2882,6 +2958,10 @@
                 "grid": "15",
                 "laps": "52",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "6904718",
+                    "time": "+41.152"
+                },
                 "FastestLap": {
                     "rank": "13",
                     "lap": "52",
@@ -2918,6 +2998,10 @@
                 "grid": "17",
                 "laps": "52",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "6918632",
+                    "time": "+55.066"
+                },
                 "FastestLap": {
                     "rank": "16",
                     "lap": "48",
@@ -2954,6 +3038,10 @@
                 "grid": "19",
                 "laps": "52",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "6936331",
+                    "time": "+1:12.765"
+                },
                 "FastestLap": {
                     "rank": "8",
                     "lap": "43",
@@ -3061,7 +3149,7 @@
         "raceName": "Chinese Grand Prix",
         "Circuit": {
             "circuitId": "shanghai",
-            "url": "http://en.wikipedia.org/wiki/Shanghai_International_Circuit",
+            "url": "https://en.wikipedia.org/wiki/Shanghai_International_Circuit",
             "circuitName": "Shanghai International Circuit",
             "Location": {
                 "lat": "31.3389",
@@ -3143,13 +3231,9 @@
                 },
                 "FastestLap": {
                     "rank": "4",
-                    "lap": "1",
+                    "lap": "33",
                     "Time": {
                         "time": "1:38.751"
-                    },
-                    "AverageSpeed": {
-                        "units": "kph",
-                        "speed": "198.717"
                     }
                 }
             },
@@ -3383,13 +3467,9 @@
                 },
                 "FastestLap": {
                     "rank": "9",
-                    "lap": "1",
+                    "lap": "18",
                     "Time": {
                         "time": "1:39.739"
-                    },
-                    "AverageSpeed": {
-                        "units": "kph",
-                        "speed": "196.749"
                     }
                 }
             },
@@ -3745,7 +3825,7 @@
                     "rank": "17",
                     "lap": "14",
                     "Time": {
-                        "time": "1:41.000"
+                        "time": "1"
                     },
                     "AverageSpeed": {
                         "units": "kph",
@@ -3870,7 +3950,7 @@
         "raceName": "Miami Grand Prix",
         "Circuit": {
             "circuitId": "miami",
-            "url": "http://en.wikipedia.org/wiki/Miami_International_Autodrome",
+            "url": "https://en.wikipedia.org/wiki/Miami_International_Autodrome",
             "circuitName": "Miami International Autodrome",
             "Location": {
                 "lat": "25.9581",
@@ -4003,10 +4083,50 @@
                 }
             },
             {
-                "number": "11",
+                "number": "55",
                 "position": "4",
                 "positionText": "4",
                 "points": "12",
+                "Driver": {
+                    "driverId": "sainz",
+                    "permanentNumber": "55",
+                    "code": "SAI",
+                    "url": "http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.",
+                    "givenName": "Carlos",
+                    "familyName": "Sainz",
+                    "dateOfBirth": "1994-09-01",
+                    "nationality": "Spanish"
+                },
+                "Constructor": {
+                    "constructorId": "ferrari",
+                    "url": "http://en.wikipedia.org/wiki/Scuderia_Ferrari",
+                    "name": "Ferrari",
+                    "nationality": "Italian"
+                },
+                "grid": "3",
+                "laps": "57",
+                "status": "Finished",
+                "Time": {
+                    "millis": "5461283",
+                    "time": "+11.407"
+                },
+                "FastestLap": {
+                    "rank": "4",
+                    "lap": "55",
+                    "Time": {
+                        "time": "1:30.928"
+                    },
+                    "AverageSpeed": {
+                        "units": "kph",
+                        "speed": "214.270"
+                    }
+                }
+            },
+            {
+                "number": "11",
+                "position": "5",
+                "positionText": "5",
+                "points": "10",
                 "Driver": {
                     "driverId": "perez",
                     "permanentNumber": "11",
@@ -4039,46 +4159,6 @@
                     "AverageSpeed": {
                         "units": "kph",
                         "speed": "214.442"
-                    }
-                }
-            },
-            {
-                "number": "55",
-                "position": "5",
-                "positionText": "5",
-                "points": "10",
-                "Driver": {
-                    "driverId": "sainz",
-                    "permanentNumber": "55",
-                    "code": "SAI",
-                    "url": "http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.",
-                    "givenName": "Carlos",
-                    "familyName": "Sainz",
-                    "dateOfBirth": "1994-09-01",
-                    "nationality": "Spanish"
-                },
-                "Constructor": {
-                    "constructorId": "ferrari",
-                    "url": "http://en.wikipedia.org/wiki/Scuderia_Ferrari",
-                    "name": "Ferrari",
-                    "nationality": "Italian"
-                },
-                "grid": "3",
-                "laps": "57",
-                "status": "Finished",
-                "Time": {
-                    "millis": "5466283",
-                    "time": "+16.407"
-                },
-                "FastestLap": {
-                    "rank": "4",
-                    "lap": "55",
-                    "Time": {
-                        "time": "1:30.928"
-                    },
-                    "AverageSpeed": {
-                        "units": "kph",
-                        "speed": "214.270"
                     }
                 }
             },
@@ -4563,9 +4643,49 @@
                 }
             },
             {
-                "number": "23",
+                "number": "20",
                 "position": "18",
                 "positionText": "18",
+                "points": "0",
+                "Driver": {
+                    "driverId": "kevin_magnussen",
+                    "permanentNumber": "20",
+                    "code": "MAG",
+                    "url": "http://en.wikipedia.org/wiki/Kevin_Magnussen",
+                    "givenName": "Kevin",
+                    "familyName": "Magnussen",
+                    "dateOfBirth": "1992-10-05",
+                    "nationality": "Danish"
+                },
+                "Constructor": {
+                    "constructorId": "haas",
+                    "url": "http://en.wikipedia.org/wiki/Haas_F1_Team",
+                    "name": "Haas F1 Team",
+                    "nationality": "American"
+                },
+                "grid": "18",
+                "laps": "57",
+                "status": "Finished",
+                "Time": {
+                    "millis": "5514559",
+                    "time": "+1:04.683"
+                },
+                "FastestLap": {
+                    "rank": "12",
+                    "lap": "33",
+                    "Time": {
+                        "time": "1:31.774"
+                    },
+                    "AverageSpeed": {
+                        "units": "kph",
+                        "speed": "212.295"
+                    }
+                }
+            },
+            {
+                "number": "23",
+                "position": "19",
+                "positionText": "19",
                 "points": "0",
                 "Driver": {
                     "driverId": "albon",
@@ -4599,46 +4719,6 @@
                     "AverageSpeed": {
                         "units": "kph",
                         "speed": "214.456"
-                    }
-                }
-            },
-            {
-                "number": "20",
-                "position": "19",
-                "positionText": "19",
-                "points": "0",
-                "Driver": {
-                    "driverId": "kevin_magnussen",
-                    "permanentNumber": "20",
-                    "code": "MAG",
-                    "url": "http://en.wikipedia.org/wiki/Kevin_Magnussen",
-                    "givenName": "Kevin",
-                    "familyName": "Magnussen",
-                    "dateOfBirth": "1992-10-05",
-                    "nationality": "Danish"
-                },
-                "Constructor": {
-                    "constructorId": "haas",
-                    "url": "http://en.wikipedia.org/wiki/Haas_F1_Team",
-                    "name": "Haas F1 Team",
-                    "nationality": "American"
-                },
-                "grid": "18",
-                "laps": "57",
-                "status": "Finished",
-                "Time": {
-                    "millis": "5534559",
-                    "time": "+1:24.683"
-                },
-                "FastestLap": {
-                    "rank": "12",
-                    "lap": "33",
-                    "Time": {
-                        "time": "1:31.774"
-                    },
-                    "AverageSpeed": {
-                        "units": "kph",
-                        "speed": "212.295"
                     }
                 }
             },
@@ -4687,7 +4767,7 @@
         "raceName": "Emilia Romagna Grand Prix",
         "Circuit": {
             "circuitId": "imola",
-            "url": "http://en.wikipedia.org/wiki/Autodromo_Enzo_e_Dino_Ferrari",
+            "url": "https://en.wikipedia.org/wiki/Imola_Circuit",
             "circuitName": "Autodromo Enzo e Dino Ferrari",
             "Location": {
                 "lat": "44.3439",
@@ -5083,6 +5163,10 @@
                 "grid": "7",
                 "laps": "62",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5143108",
+                    "time": "+17.856"
+                },
                 "FastestLap": {
                     "rank": "11",
                     "lap": "14",
@@ -5119,6 +5203,10 @@
                 "grid": "10",
                 "laps": "62",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5150529",
+                    "time": "+25.277"
+                },
                 "FastestLap": {
                     "rank": "20",
                     "lap": "3",
@@ -5155,6 +5243,10 @@
                 "grid": "18",
                 "laps": "62",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5151686",
+                    "time": "+26.434"
+                },
                 "FastestLap": {
                     "rank": "12",
                     "lap": "58",
@@ -5191,6 +5283,10 @@
                 "grid": "9",
                 "laps": "62",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5152913",
+                    "time": "+27.661"
+                },
                 "FastestLap": {
                     "rank": "19",
                     "lap": "13",
@@ -5227,6 +5323,10 @@
                 "grid": "12",
                 "laps": "62",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5169159",
+                    "time": "+43.907"
+                },
                 "FastestLap": {
                     "rank": "16",
                     "lap": "37",
@@ -5263,6 +5363,10 @@
                 "grid": "17",
                 "laps": "62",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5170185",
+                    "time": "+44.933"
+                },
                 "FastestLap": {
                     "rank": "13",
                     "lap": "37",
@@ -5299,6 +5403,10 @@
                 "grid": "15",
                 "laps": "62",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5174967",
+                    "time": "+49.715"
+                },
                 "FastestLap": {
                     "rank": "17",
                     "lap": "10",
@@ -5335,6 +5443,10 @@
                 "grid": "19",
                 "laps": "62",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5176303",
+                    "time": "+51.051"
+                },
                 "FastestLap": {
                     "rank": "14",
                     "lap": "55",
@@ -5371,6 +5483,10 @@
                 "grid": "16",
                 "laps": "62",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5181595",
+                    "time": "+56.343"
+                },
                 "FastestLap": {
                     "rank": "18",
                     "lap": "11",
@@ -5407,6 +5523,10 @@
                 "grid": "20",
                 "laps": "62",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5200376",
+                    "time": "+1:15.124"
+                },
                 "FastestLap": {
                     "rank": "2",
                     "lap": "62",
@@ -5464,7 +5584,7 @@
         "raceName": "Monaco Grand Prix",
         "Circuit": {
             "circuitId": "monaco",
-            "url": "http://en.wikipedia.org/wiki/Circuit_de_Monaco",
+            "url": "https://en.wikipedia.org/wiki/Circuit_de_Monaco",
             "circuitName": "Circuit de Monaco",
             "Location": {
                 "lat": "43.7347",
@@ -5503,6 +5623,13 @@
                 "Time": {
                     "millis": "8595554",
                     "time": "2:23:15.554"
+                },
+                "FastestLap": {
+                    "rank": "6",
+                    "lap": "71",
+                    "Time": {
+                        "time": "1:15.162"
+                    }
                 }
             },
             {
@@ -5532,6 +5659,13 @@
                 "Time": {
                     "millis": "8602706",
                     "time": "+7.152"
+                },
+                "FastestLap": {
+                    "rank": "11",
+                    "lap": "73",
+                    "Time": {
+                        "time": "1:16.281"
+                    }
                 }
             },
             {
@@ -5561,6 +5695,13 @@
                 "Time": {
                     "millis": "8603139",
                     "time": "+7.585"
+                },
+                "FastestLap": {
+                    "rank": "5",
+                    "lap": "62",
+                    "Time": {
+                        "time": "1:14.726"
+                    }
                 }
             },
             {
@@ -5590,6 +5731,13 @@
                 "Time": {
                     "millis": "8604204",
                     "time": "+8.650"
+                },
+                "FastestLap": {
+                    "rank": "10",
+                    "lap": "64",
+                    "Time": {
+                        "time": "1:15.742"
+                    }
                 }
             },
             {
@@ -5619,6 +5767,13 @@
                 "Time": {
                     "millis": "8608863",
                     "time": "+13.309"
+                },
+                "FastestLap": {
+                    "rank": "7",
+                    "lap": "73",
+                    "Time": {
+                        "time": "1:15.228"
+                    }
                 }
             },
             {
@@ -5648,6 +5803,13 @@
                 "Time": {
                     "millis": "8609407",
                     "time": "+13.853"
+                },
+                "FastestLap": {
+                    "rank": "2",
+                    "lap": "58",
+                    "Time": {
+                        "time": "1:14.569"
+                    }
                 }
             },
             {
@@ -5677,6 +5839,13 @@
                 "Time": {
                     "millis": "8610462",
                     "time": "+14.908"
+                },
+                "FastestLap": {
+                    "rank": "1",
+                    "lap": "63",
+                    "Time": {
+                        "time": "1:14.165"
+                    }
                 }
             },
             {
@@ -5702,7 +5871,18 @@
                 },
                 "grid": "8",
                 "laps": "77",
-                "status": "+1 Lap"
+                "status": "+1 Lap",
+                "Time": {
+                    "millis": "8635041",
+                    "time": "+39.487"
+                },
+                "FastestLap": {
+                    "rank": "4",
+                    "lap": "77",
+                    "Time": {
+                        "time": "1:14.720"
+                    }
+                }
             },
             {
                 "number": "23",
@@ -5727,7 +5907,18 @@
                 },
                 "grid": "9",
                 "laps": "77",
-                "status": "+1 Lap"
+                "status": "+1 Lap",
+                "Time": {
+                    "millis": "8649606",
+                    "time": "+54.052"
+                },
+                "FastestLap": {
+                    "rank": "14",
+                    "lap": "77",
+                    "Time": {
+                        "time": "1:17.060"
+                    }
+                }
             },
             {
                 "number": "10",
@@ -5752,7 +5943,18 @@
                 },
                 "grid": "10",
                 "laps": "77",
-                "status": "+1 Lap"
+                "status": "+1 Lap",
+                "Time": {
+                    "millis": "8655795",
+                    "time": "+1:00.241"
+                },
+                "FastestLap": {
+                    "rank": "9",
+                    "lap": "77",
+                    "Time": {
+                        "time": "1:15.625"
+                    }
+                }
             },
             {
                 "number": "14",
@@ -5777,7 +5979,18 @@
                 },
                 "grid": "14",
                 "laps": "76",
-                "status": "+2 Laps"
+                "status": "+2 Laps",
+                "Time": {
+                    "millis": "8599408",
+                    "time": "+3.854"
+                },
+                "FastestLap": {
+                    "rank": "16",
+                    "lap": "68",
+                    "Time": {
+                        "time": "1:17.939"
+                    }
+                }
             },
             {
                 "number": "3",
@@ -5802,7 +6015,18 @@
                 },
                 "grid": "12",
                 "laps": "76",
-                "status": "+2 Laps"
+                "status": "+2 Laps",
+                "Time": {
+                    "millis": "8599818",
+                    "time": "+4.264"
+                },
+                "FastestLap": {
+                    "rank": "15",
+                    "lap": "46",
+                    "Time": {
+                        "time": "1:17.172"
+                    }
+                }
             },
             {
                 "number": "77",
@@ -5827,7 +6051,18 @@
                 },
                 "grid": "17",
                 "laps": "76",
-                "status": "+2 Laps"
+                "status": "+2 Laps",
+                "Time": {
+                    "millis": "8600042",
+                    "time": "+4.488"
+                },
+                "FastestLap": {
+                    "rank": "12",
+                    "lap": "17",
+                    "Time": {
+                        "time": "1:16.561"
+                    }
+                }
             },
             {
                 "number": "18",
@@ -5852,7 +6087,18 @@
                 },
                 "grid": "13",
                 "laps": "76",
-                "status": "+2 Laps"
+                "status": "+2 Laps",
+                "Time": {
+                    "millis": "8601521",
+                    "time": "+5.967"
+                },
+                "FastestLap": {
+                    "rank": "13",
+                    "lap": "59",
+                    "Time": {
+                        "time": "1:16.710"
+                    }
+                }
             },
             {
                 "number": "2",
@@ -5877,7 +6123,18 @@
                 },
                 "grid": "15",
                 "laps": "76",
-                "status": "+2 Laps"
+                "status": "+2 Laps",
+                "Time": {
+                    "millis": "8604580",
+                    "time": "+9.026"
+                },
+                "FastestLap": {
+                    "rank": "8",
+                    "lap": "62",
+                    "Time": {
+                        "time": "1:15.525"
+                    }
+                }
             },
             {
                 "number": "24",
@@ -5902,7 +6159,18 @@
                 },
                 "grid": "18",
                 "laps": "76",
-                "status": "+2 Laps"
+                "status": "+2 Laps",
+                "Time": {
+                    "millis": "8650814",
+                    "time": "+55.260"
+                },
+                "FastestLap": {
+                    "rank": "3",
+                    "lap": "75",
+                    "Time": {
+                        "time": "1:14.718"
+                    }
+                }
             },
             {
                 "number": "31",
@@ -6013,7 +6281,7 @@
         "raceName": "Canadian Grand Prix",
         "Circuit": {
             "circuitId": "villeneuve",
-            "url": "http://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve",
+            "url": "https://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve",
             "circuitName": "Circuit Gilles Villeneuve",
             "Location": {
                 "lat": "45.5",
@@ -6609,6 +6877,10 @@
                 "grid": "0",
                 "laps": "69",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "6401455",
+                    "time": "+53.528"
+                },
                 "FastestLap": {
                     "rank": "15",
                     "lap": "68",
@@ -6810,7 +7082,7 @@
         "raceName": "Spanish Grand Prix",
         "Circuit": {
             "circuitId": "catalunya",
-            "url": "http://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya",
+            "url": "https://en.wikipedia.org/wiki/Circuit_de_Barcelona-Catalunya",
             "circuitName": "Circuit de Barcelona-Catalunya",
             "Location": {
                 "lat": "41.57",
@@ -7286,6 +7558,10 @@
                 "grid": "10",
                 "laps": "65",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5309724",
+                    "time": "+9.497"
+                },
                 "FastestLap": {
                     "rank": "8",
                     "lap": "50",
@@ -7322,6 +7598,10 @@
                 "grid": "15",
                 "laps": "65",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5315703",
+                    "time": "+15.476"
+                },
                 "FastestLap": {
                     "rank": "11",
                     "lap": "50",
@@ -7358,6 +7638,10 @@
                 "grid": "14",
                 "laps": "65",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5325479",
+                    "time": "+25.252"
+                },
                 "FastestLap": {
                     "rank": "15",
                     "lap": "50",
@@ -7394,6 +7678,10 @@
                 "grid": "18",
                 "laps": "65",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5344277",
+                    "time": "+44.050"
+                },
                 "FastestLap": {
                     "rank": "17",
                     "lap": "61",
@@ -7430,6 +7718,10 @@
                 "grid": "12",
                 "laps": "65",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5353540",
+                    "time": "+53.313"
+                },
                 "FastestLap": {
                     "rank": "18",
                     "lap": "13",
@@ -7466,6 +7758,10 @@
                 "grid": "16",
                 "laps": "65",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5355015",
+                    "time": "+54.788"
+                },
                 "FastestLap": {
                     "rank": "19",
                     "lap": "33",
@@ -7502,6 +7798,10 @@
                 "grid": "0",
                 "laps": "65",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5358376",
+                    "time": "+58.149"
+                },
                 "FastestLap": {
                     "rank": "14",
                     "lap": "45",
@@ -7538,6 +7838,10 @@
                 "grid": "17",
                 "laps": "65",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5369131",
+                    "time": "+1:08.904"
+                },
                 "FastestLap": {
                     "rank": "16",
                     "lap": "56",
@@ -7574,6 +7878,10 @@
                 "grid": "19",
                 "laps": "64",
                 "status": "+2 Laps",
+                "Time": {
+                    "millis": "5305093",
+                    "time": "+4.866"
+                },
                 "FastestLap": {
                     "rank": "20",
                     "lap": "38",
@@ -7595,7 +7903,7 @@
         "raceName": "Austrian Grand Prix",
         "Circuit": {
             "circuitId": "red_bull_ring",
-            "url": "http://en.wikipedia.org/wiki/Red_Bull_Ring",
+            "url": "https://en.wikipedia.org/wiki/Red_Bull_Ring",
             "circuitName": "Red Bull Ring",
             "Location": {
                 "lat": "47.2197",
@@ -8111,6 +8419,10 @@
                 "grid": "17",
                 "laps": "70",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5073032",
+                    "time": "+10.234"
+                },
                 "FastestLap": {
                     "rank": "13",
                     "lap": "54",
@@ -8147,6 +8459,10 @@
                 "grid": "14",
                 "laps": "70",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5075943",
+                    "time": "+13.145"
+                },
                 "FastestLap": {
                     "rank": "15",
                     "lap": "54",
@@ -8183,6 +8499,10 @@
                 "grid": "16",
                 "laps": "70",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5078664",
+                    "time": "+15.866"
+                },
                 "FastestLap": {
                     "rank": "16",
                     "lap": "41",
@@ -8219,6 +8539,10 @@
                 "grid": "18",
                 "laps": "70",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5082173",
+                    "time": "+19.375"
+                },
                 "FastestLap": {
                     "rank": "19",
                     "lap": "48",
@@ -8255,6 +8579,10 @@
                 "grid": "20",
                 "laps": "70",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5107680",
+                    "time": "+44.882"
+                },
                 "FastestLap": {
                     "rank": "20",
                     "lap": "54",
@@ -8291,6 +8619,10 @@
                 "grid": "15",
                 "laps": "70",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5110458",
+                    "time": "+47.660"
+                },
                 "FastestLap": {
                     "rank": "1",
                     "lap": "70",
@@ -8327,6 +8659,10 @@
                 "grid": "19",
                 "laps": "69",
                 "status": "+2 Laps",
+                "Time": {
+                    "millis": "5069107",
+                    "time": "+6.309"
+                },
                 "FastestLap": {
                     "rank": "17",
                     "lap": "60",
@@ -8363,6 +8699,10 @@
                 "grid": "2",
                 "laps": "64",
                 "status": "+7 Laps",
+                "Time": {
+                    "millis": "4596054",
+                    "time": "+-1:52:13.256"
+                },
                 "FastestLap": {
                     "rank": "3",
                     "lap": "53",
@@ -8384,7 +8724,7 @@
         "raceName": "British Grand Prix",
         "Circuit": {
             "circuitId": "silverstone",
-            "url": "http://en.wikipedia.org/wiki/Silverstone_Circuit",
+            "url": "https://en.wikipedia.org/wiki/Silverstone_Circuit",
             "circuitName": "Silverstone Circuit",
             "Location": {
                 "lat": "52.0786",
@@ -8900,6 +9240,10 @@
                 "grid": "15",
                 "laps": "51",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "4956996",
+                    "time": "+9.937"
+                },
                 "FastestLap": {
                     "rank": "15",
                     "lap": "47",
@@ -8936,6 +9280,10 @@
                 "grid": "11",
                 "laps": "51",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "4987532",
+                    "time": "+40.473"
+                },
                 "FastestLap": {
                     "rank": "9",
                     "lap": "43",
@@ -8972,6 +9320,10 @@
                 "grid": "16",
                 "laps": "51",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "4988880",
+                    "time": "+41.821"
+                },
                 "FastestLap": {
                     "rank": "18",
                     "lap": "44",
@@ -9008,6 +9360,10 @@
                 "grid": "18",
                 "laps": "50",
                 "status": "+2 Laps",
+                "Time": {
+                    "millis": "4957741",
+                    "time": "+10.682"
+                },
                 "FastestLap": {
                     "rank": "16",
                     "lap": "46",
@@ -9044,6 +9400,10 @@
                 "grid": "0",
                 "laps": "50",
                 "status": "+2 Laps",
+                "Time": {
+                    "millis": "4965064",
+                    "time": "+18.005"
+                },
                 "FastestLap": {
                     "rank": "6",
                     "lap": "50",
@@ -9080,6 +9440,10 @@
                 "grid": "14",
                 "laps": "50",
                 "status": "+2 Laps",
+                "Time": {
+                    "millis": "5001535",
+                    "time": "+54.476"
+                },
                 "FastestLap": {
                     "rank": "17",
                     "lap": "43",
@@ -9162,7 +9526,7 @@
         "raceName": "Hungarian Grand Prix",
         "Circuit": {
             "circuitId": "hungaroring",
-            "url": "http://en.wikipedia.org/wiki/Hungaroring",
+            "url": "https://en.wikipedia.org/wiki/Hungaroring",
             "circuitName": "Hungaroring",
             "Location": {
                 "lat": "47.5789",
@@ -9638,6 +10002,10 @@
                 "grid": "9",
                 "laps": "69",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5899913",
+                    "time": "+17.924"
+                },
                 "FastestLap": {
                     "rank": "12",
                     "lap": "30",
@@ -9674,6 +10042,10 @@
                 "grid": "11",
                 "laps": "69",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5915173",
+                    "time": "+33.184"
+                },
                 "FastestLap": {
                     "rank": "16",
                     "lap": "54",
@@ -9710,6 +10082,10 @@
                 "grid": "13",
                 "laps": "69",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5918758",
+                    "time": "+36.769"
+                },
                 "FastestLap": {
                     "rank": "20",
                     "lap": "31",
@@ -9746,6 +10122,10 @@
                 "grid": "15",
                 "laps": "69",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5927291",
+                    "time": "+45.302"
+                },
                 "FastestLap": {
                     "rank": "19",
                     "lap": "50",
@@ -9782,6 +10162,10 @@
                 "grid": "12",
                 "laps": "69",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5927398",
+                    "time": "+45.409"
+                },
                 "FastestLap": {
                     "rank": "13",
                     "lap": "52",
@@ -9818,6 +10202,10 @@
                 "grid": "14",
                 "laps": "69",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5934580",
+                    "time": "+52.591"
+                },
                 "FastestLap": {
                     "rank": "2",
                     "lap": "65",
@@ -9854,6 +10242,10 @@
                 "grid": "19",
                 "laps": "69",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5942918",
+                    "time": "+1:00.929"
+                },
                 "FastestLap": {
                     "rank": "6",
                     "lap": "66",
@@ -9890,6 +10282,10 @@
                 "grid": "18",
                 "laps": "69",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5945587",
+                    "time": "+1:03.598"
+                },
                 "FastestLap": {
                     "rank": "17",
                     "lap": "38",
@@ -9947,7 +10343,7 @@
         "raceName": "Belgian Grand Prix",
         "Circuit": {
             "circuitId": "spa",
-            "url": "http://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps",
+            "url": "https://en.wikipedia.org/wiki/Circuit_de_Spa-Francorchamps",
             "circuitName": "Circuit de Spa-Francorchamps",
             "Location": {
                 "lat": "50.4372",
@@ -9960,10 +10356,50 @@
         "time": "13:00:00Z",
         "Results": [
             {
-                "number": "44",
+                "number": "63",
                 "position": "1",
                 "positionText": "1",
                 "points": "25",
+                "Driver": {
+                    "driverId": "russell",
+                    "permanentNumber": "63",
+                    "code": "RUS",
+                    "url": "http://en.wikipedia.org/wiki/George_Russell_(racing_driver)",
+                    "givenName": "George",
+                    "familyName": "Russell",
+                    "dateOfBirth": "1998-02-15",
+                    "nationality": "British"
+                },
+                "Constructor": {
+                    "constructorId": "mercedes",
+                    "url": "http://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One",
+                    "name": "Mercedes",
+                    "nationality": "German"
+                },
+                "grid": "6",
+                "laps": "44",
+                "status": "Disqualified",
+                "Time": {
+                    "millis": "4797040",
+                    "time": "1:19:57.040"
+                },
+                "FastestLap": {
+                    "rank": "10",
+                    "lap": "44",
+                    "Time": {
+                        "time": "1:47.113"
+                    },
+                    "AverageSpeed": {
+                        "units": "kph",
+                        "speed": "235.399"
+                    }
+                }
+            },
+            {
+                "number": "44",
+                "position": "2",
+                "positionText": "2",
+                "points": "18",
                 "Driver": {
                     "driverId": "hamilton",
                     "permanentNumber": "44",
@@ -9984,7 +10420,7 @@
                 "laps": "44",
                 "status": "Finished",
                 "Time": {
-                    "millis": "526",
+                    "millis": "4797566",
                     "time": "+0.526"
                 },
                 "FastestLap": {
@@ -10001,9 +10437,9 @@
             },
             {
                 "number": "81",
-                "position": "2",
-                "positionText": "2",
-                "points": "18",
+                "position": "3",
+                "positionText": "3",
+                "points": "15",
                 "Driver": {
                     "driverId": "piastri",
                     "permanentNumber": "81",
@@ -10024,7 +10460,7 @@
                 "laps": "44",
                 "status": "Finished",
                 "Time": {
-                    "millis": "1699",
+                    "millis": "4798213",
                     "time": "+1.173"
                 },
                 "FastestLap": {
@@ -10041,9 +10477,9 @@
             },
             {
                 "number": "16",
-                "position": "3",
-                "positionText": "3",
-                "points": "15",
+                "position": "4",
+                "positionText": "4",
+                "points": "12",
                 "Driver": {
                     "driverId": "leclerc",
                     "permanentNumber": "16",
@@ -10064,7 +10500,7 @@
                 "laps": "44",
                 "status": "Finished",
                 "Time": {
-                    "millis": "9075",
+                    "millis": "4805589",
                     "time": "+8.549"
                 },
                 "FastestLap": {
@@ -10081,9 +10517,9 @@
             },
             {
                 "number": "1",
-                "position": "4",
-                "positionText": "4",
-                "points": "12",
+                "position": "5",
+                "positionText": "5",
+                "points": "10",
                 "Driver": {
                     "driverId": "max_verstappen",
                     "permanentNumber": "33",
@@ -10104,7 +10540,7 @@
                 "laps": "44",
                 "status": "Finished",
                 "Time": {
-                    "millis": "9752",
+                    "millis": "4806266",
                     "time": "+9.226"
                 },
                 "FastestLap": {
@@ -10121,9 +10557,9 @@
             },
             {
                 "number": "4",
-                "position": "5",
-                "positionText": "5",
-                "points": "10",
+                "position": "6",
+                "positionText": "6",
+                "points": "8",
                 "Driver": {
                     "driverId": "norris",
                     "permanentNumber": "4",
@@ -10144,7 +10580,7 @@
                 "laps": "44",
                 "status": "Finished",
                 "Time": {
-                    "millis": "10376",
+                    "millis": "4806890",
                     "time": "+9.850"
                 },
                 "FastestLap": {
@@ -10161,9 +10597,9 @@
             },
             {
                 "number": "55",
-                "position": "6",
-                "positionText": "6",
-                "points": "8",
+                "position": "7",
+                "positionText": "7",
+                "points": "6",
                 "Driver": {
                     "driverId": "sainz",
                     "permanentNumber": "55",
@@ -10184,7 +10620,7 @@
                 "laps": "44",
                 "status": "Finished",
                 "Time": {
-                    "millis": "20321",
+                    "millis": "4816835",
                     "time": "+19.795"
                 },
                 "FastestLap": {
@@ -10201,9 +10637,9 @@
             },
             {
                 "number": "11",
-                "position": "7",
-                "positionText": "7",
-                "points": "7",
+                "position": "8",
+                "positionText": "8",
+                "points": "5",
                 "Driver": {
                     "driverId": "perez",
                     "permanentNumber": "11",
@@ -10224,7 +10660,7 @@
                 "laps": "44",
                 "status": "Finished",
                 "Time": {
-                    "millis": "43721",
+                    "millis": "4840235",
                     "time": "+43.195"
                 },
                 "FastestLap": {
@@ -10241,9 +10677,9 @@
             },
             {
                 "number": "14",
-                "position": "8",
-                "positionText": "8",
-                "points": "4",
+                "position": "9",
+                "positionText": "9",
+                "points": "2",
                 "Driver": {
                     "driverId": "alonso",
                     "permanentNumber": "14",
@@ -10264,7 +10700,7 @@
                 "laps": "44",
                 "status": "Finished",
                 "Time": {
-                    "millis": "50489",
+                    "millis": "4847003",
                     "time": "+49.963"
                 },
                 "FastestLap": {
@@ -10281,9 +10717,9 @@
             },
             {
                 "number": "31",
-                "position": "9",
-                "positionText": "9",
-                "points": "2",
+                "position": "10",
+                "positionText": "10",
+                "points": "1",
                 "Driver": {
                     "driverId": "ocon",
                     "permanentNumber": "31",
@@ -10304,7 +10740,7 @@
                 "laps": "44",
                 "status": "Finished",
                 "Time": {
-                    "millis": "53078",
+                    "millis": "4849592",
                     "time": "+52.552"
                 },
                 "FastestLap": {
@@ -10321,9 +10757,9 @@
             },
             {
                 "number": "3",
-                "position": "10",
-                "positionText": "10",
-                "points": "1",
+                "position": "11",
+                "positionText": "11",
+                "points": "0",
                 "Driver": {
                     "driverId": "ricciardo",
                     "permanentNumber": "3",
@@ -10344,7 +10780,7 @@
                 "laps": "44",
                 "status": "Finished",
                 "Time": {
-                    "millis": "55452",
+                    "millis": "4851966",
                     "time": "+54.926"
                 },
                 "FastestLap": {
@@ -10361,8 +10797,8 @@
             },
             {
                 "number": "18",
-                "position": "11",
-                "positionText": "11",
+                "position": "12",
+                "positionText": "12",
                 "points": "0",
                 "Driver": {
                     "driverId": "stroll",
@@ -10384,7 +10820,7 @@
                 "laps": "44",
                 "status": "Finished",
                 "Time": {
-                    "millis": "63537",
+                    "millis": "4860051",
                     "time": "+1:03.011"
                 },
                 "FastestLap": {
@@ -10401,8 +10837,8 @@
             },
             {
                 "number": "23",
-                "position": "12",
-                "positionText": "12",
+                "position": "13",
+                "positionText": "13",
                 "points": "0",
                 "Driver": {
                     "driverId": "albon",
@@ -10424,7 +10860,7 @@
                 "laps": "44",
                 "status": "Finished",
                 "Time": {
-                    "millis": "64177",
+                    "millis": "4860691",
                     "time": "+1:03.651"
                 },
                 "FastestLap": {
@@ -10441,8 +10877,8 @@
             },
             {
                 "number": "10",
-                "position": "13",
-                "positionText": "13",
+                "position": "14",
+                "positionText": "14",
                 "points": "0",
                 "Driver": {
                     "driverId": "gasly",
@@ -10464,7 +10900,7 @@
                 "laps": "44",
                 "status": "Finished",
                 "Time": {
-                    "millis": "64891",
+                    "millis": "4861405",
                     "time": "+1:04.365"
                 },
                 "FastestLap": {
@@ -10481,8 +10917,8 @@
             },
             {
                 "number": "20",
-                "position": "14",
-                "positionText": "14",
+                "position": "15",
+                "positionText": "15",
                 "points": "0",
                 "Driver": {
                     "driverId": "kevin_magnussen",
@@ -10504,7 +10940,7 @@
                 "laps": "44",
                 "status": "Finished",
                 "Time": {
-                    "millis": "67157",
+                    "millis": "4863671",
                     "time": "+1:06.631"
                 },
                 "FastestLap": {
@@ -10521,8 +10957,8 @@
             },
             {
                 "number": "77",
-                "position": "15",
-                "positionText": "15",
+                "position": "16",
+                "positionText": "16",
                 "points": "0",
                 "Driver": {
                     "driverId": "bottas",
@@ -10544,7 +10980,7 @@
                 "laps": "44",
                 "status": "Finished",
                 "Time": {
-                    "millis": "71164",
+                    "millis": "4867678",
                     "time": "+1:10.638"
                 },
                 "FastestLap": {
@@ -10561,8 +10997,8 @@
             },
             {
                 "number": "22",
-                "position": "16",
-                "positionText": "16",
+                "position": "17",
+                "positionText": "17",
                 "points": "0",
                 "Driver": {
                     "driverId": "tsunoda",
@@ -10584,7 +11020,7 @@
                 "laps": "44",
                 "status": "Finished",
                 "Time": {
-                    "millis": "77263",
+                    "millis": "4873777",
                     "time": "+1:16.737"
                 },
                 "FastestLap": {
@@ -10601,8 +11037,8 @@
             },
             {
                 "number": "2",
-                "position": "17",
-                "positionText": "17",
+                "position": "18",
+                "positionText": "18",
                 "points": "0",
                 "Driver": {
                     "driverId": "sargeant",
@@ -10624,7 +11060,7 @@
                 "laps": "44",
                 "status": "Finished",
                 "Time": {
-                    "millis": "86583",
+                    "millis": "4883097",
                     "time": "+1:26.057"
                 },
                 "FastestLap": {
@@ -10641,8 +11077,8 @@
             },
             {
                 "number": "27",
-                "position": "18",
-                "positionText": "18",
+                "position": "19",
+                "positionText": "19",
                 "points": "0",
                 "Driver": {
                     "driverId": "hulkenberg",
@@ -10664,7 +11100,7 @@
                 "laps": "44",
                 "status": "Finished",
                 "Time": {
-                    "millis": "89359",
+                    "millis": "4885873",
                     "time": "+1:28.833"
                 },
                 "FastestLap": {
@@ -10681,7 +11117,7 @@
             },
             {
                 "number": "24",
-                "position": "19",
+                "position": "20",
                 "positionText": "R",
                 "points": "0",
                 "Driver": {
@@ -10714,46 +11150,6 @@
                         "speed": "224.929"
                     }
                 }
-            },
-            {
-                "number": "63",
-                "position": "20",
-                "positionText": "D",
-                "points": "0",
-                "Driver": {
-                    "driverId": "russell",
-                    "permanentNumber": "63",
-                    "code": "RUS",
-                    "url": "http://en.wikipedia.org/wiki/George_Russell_(racing_driver)",
-                    "givenName": "George",
-                    "familyName": "Russell",
-                    "dateOfBirth": "1998-02-15",
-                    "nationality": "British"
-                },
-                "Constructor": {
-                    "constructorId": "mercedes",
-                    "url": "http://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One",
-                    "name": "Mercedes",
-                    "nationality": "German"
-                },
-                "grid": "6",
-                "laps": "44",
-                "status": "Disqualified",
-                "Time": {
-                    "millis": "4797566",
-                    "time": "1:19:57.040"
-                },
-                "FastestLap": {
-                    "rank": "10",
-                    "lap": "44",
-                    "Time": {
-                        "time": "1:47.113"
-                    },
-                    "AverageSpeed": {
-                        "units": "kph",
-                        "speed": "235.399"
-                    }
-                }
             }
         ]
     },
@@ -10764,7 +11160,7 @@
         "raceName": "Dutch Grand Prix",
         "Circuit": {
             "circuitId": "zandvoort",
-            "url": "http://en.wikipedia.org/wiki/Circuit_Zandvoort",
+            "url": "https://en.wikipedia.org/wiki/Circuit_Zandvoort",
             "circuitName": "Circuit Park Zandvoort",
             "Location": {
                 "lat": "52.3888",
@@ -11120,6 +11516,10 @@
                 "grid": "9",
                 "laps": "71",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5454123",
+                    "time": "+8.604"
+                },
                 "FastestLap": {
                     "rank": "11",
                     "lap": "54",
@@ -11156,6 +11556,10 @@
                 "grid": "7",
                 "laps": "71",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5459052",
+                    "time": "+13.533"
+                },
                 "FastestLap": {
                     "rank": "10",
                     "lap": "34",
@@ -11192,6 +11596,10 @@
                 "grid": "12",
                 "laps": "71",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5464733",
+                    "time": "+19.214"
+                },
                 "FastestLap": {
                     "rank": "18",
                     "lap": "59",
@@ -11228,6 +11636,10 @@
                 "grid": "13",
                 "laps": "71",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5466586",
+                    "time": "+21.067"
+                },
                 "FastestLap": {
                     "rank": "13",
                     "lap": "52",
@@ -11264,6 +11676,10 @@
                 "grid": "8",
                 "laps": "71",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5471231",
+                    "time": "+25.712"
+                },
                 "FastestLap": {
                     "rank": "14",
                     "lap": "51",
@@ -11300,6 +11716,10 @@
                 "grid": "19",
                 "laps": "71",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5486230",
+                    "time": "+40.711"
+                },
                 "FastestLap": {
                     "rank": "6",
                     "lap": "71",
@@ -11336,6 +11756,10 @@
                 "grid": "15",
                 "laps": "71",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5492397",
+                    "time": "+46.878"
+                },
                 "FastestLap": {
                     "rank": "15",
                     "lap": "50",
@@ -11372,6 +11796,10 @@
                 "grid": "18",
                 "laps": "71",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5510058",
+                    "time": "+1:04.539"
+                },
                 "FastestLap": {
                     "rank": "16",
                     "lap": "26",
@@ -11408,6 +11836,10 @@
                 "grid": "11",
                 "laps": "71",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5510665",
+                    "time": "+1:05.146"
+                },
                 "FastestLap": {
                     "rank": "17",
                     "lap": "16",
@@ -11444,6 +11876,10 @@
                 "grid": "0",
                 "laps": "71",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5511226",
+                    "time": "+1:05.707"
+                },
                 "FastestLap": {
                     "rank": "12",
                     "lap": "42",
@@ -11480,6 +11916,10 @@
                 "grid": "16",
                 "laps": "70",
                 "status": "+2 Laps",
+                "Time": {
+                    "millis": "5448767",
+                    "time": "+3.248"
+                },
                 "FastestLap": {
                     "rank": "20",
                     "lap": "45",
@@ -11516,6 +11956,10 @@
                 "grid": "17",
                 "laps": "70",
                 "status": "+2 Laps",
+                "Time": {
+                    "millis": "5481538",
+                    "time": "+36.019"
+                },
                 "FastestLap": {
                     "rank": "19",
                     "lap": "67",
@@ -11537,7 +11981,7 @@
         "raceName": "Italian Grand Prix",
         "Circuit": {
             "circuitId": "monza",
-            "url": "http://en.wikipedia.org/wiki/Autodromo_Nazionale_Monza",
+            "url": "https://en.wikipedia.org/wiki/Monza_Circuit",
             "circuitName": "Autodromo Nazionale di Monza",
             "Location": {
                 "lat": "45.6156",
@@ -12002,7 +12446,7 @@
                     "givenName": "Franco",
                     "familyName": "Colapinto",
                     "dateOfBirth": "2003-05-27",
-                    "nationality": "Argentinian "
+                    "nationality": "Argentine"
                 },
                 "Constructor": {
                     "constructorId": "williams",
@@ -12093,6 +12537,10 @@
                 "grid": "15",
                 "laps": "52",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "4493386",
+                    "time": "+12.659"
+                },
                 "FastestLap": {
                     "rank": "18",
                     "lap": "52",
@@ -12129,6 +12577,10 @@
                 "grid": "14",
                 "laps": "52",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "4499071",
+                    "time": "+18.344"
+                },
                 "FastestLap": {
                     "rank": "15",
                     "lap": "51",
@@ -12165,6 +12617,10 @@
                 "grid": "19",
                 "laps": "52",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "4507938",
+                    "time": "+27.211"
+                },
                 "FastestLap": {
                     "rank": "13",
                     "lap": "52",
@@ -12201,6 +12657,10 @@
                 "grid": "10",
                 "laps": "52",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "4511597",
+                    "time": "+30.870"
+                },
                 "FastestLap": {
                     "rank": "11",
                     "lap": "44",
@@ -12237,6 +12697,10 @@
                 "grid": "20",
                 "laps": "52",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "4520782",
+                    "time": "+40.055"
+                },
                 "FastestLap": {
                     "rank": "19",
                     "lap": "17",
@@ -12273,6 +12737,10 @@
                 "grid": "17",
                 "laps": "52",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "4524235",
+                    "time": "+43.508"
+                },
                 "FastestLap": {
                     "rank": "6",
                     "lap": "52",
@@ -12330,7 +12798,7 @@
         "raceName": "Azerbaijan Grand Prix",
         "Circuit": {
             "circuitId": "baku",
-            "url": "http://en.wikipedia.org/wiki/Baku_City_Circuit",
+            "url": "https://en.wikipedia.org/wiki/Baku_City_Circuit",
             "circuitName": "Baku City Circuit",
             "Location": {
                 "lat": "40.3725",
@@ -12635,7 +13103,7 @@
                     "givenName": "Franco",
                     "familyName": "Colapinto",
                     "dateOfBirth": "2003-05-27",
-                    "nationality": "Argentinian "
+                    "nationality": "Argentine"
                 },
                 "Constructor": {
                     "constructorId": "williams",
@@ -12926,6 +13394,10 @@
                 "grid": "0",
                 "laps": "50",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5599351",
+                    "time": "+21.344"
+                },
                 "FastestLap": {
                     "rank": "19",
                     "lap": "35",
@@ -12962,6 +13434,10 @@
                 "grid": "16",
                 "laps": "50",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5603402",
+                    "time": "+25.395"
+                },
                 "FastestLap": {
                     "rank": "18",
                     "lap": "41",
@@ -12998,6 +13474,10 @@
                 "grid": "4",
                 "laps": "49",
                 "status": "Retired",
+                "Time": {
+                    "millis": "5321198",
+                    "time": "+-1:55:43.191"
+                },
                 "FastestLap": {
                     "rank": "6",
                     "lap": "46",
@@ -13034,6 +13514,10 @@
                 "grid": "3",
                 "laps": "49",
                 "status": "Retired",
+                "Time": {
+                    "millis": "5321768",
+                    "time": "+-1:55:43.761"
+                },
                 "FastestLap": {
                     "rank": "4",
                     "lap": "46",
@@ -13070,6 +13554,10 @@
                 "grid": "13",
                 "laps": "45",
                 "status": "Retired",
+                "Time": {
+                    "millis": "5001080",
+                    "time": "+-1:50:23.073"
+                },
                 "FastestLap": {
                     "rank": "16",
                     "lap": "31",
@@ -13127,7 +13615,7 @@
         "raceName": "Singapore Grand Prix",
         "Circuit": {
             "circuitId": "marina_bay",
-            "url": "http://en.wikipedia.org/wiki/Marina_Bay_Street_Circuit",
+            "url": "https://en.wikipedia.org/wiki/Marina_Bay_Street_Circuit",
             "circuitName": "Marina Bay Street Circuit",
             "Location": {
                 "lat": "1.2914",
@@ -13443,6 +13931,10 @@
                 "grid": "7",
                 "laps": "61",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "6053444",
+                    "time": "+0.873"
+                },
                 "FastestLap": {
                     "rank": "18",
                     "lap": "54",
@@ -13479,6 +13971,10 @@
                 "grid": "6",
                 "laps": "61",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "6055711",
+                    "time": "+3.140"
+                },
                 "FastestLap": {
                     "rank": "15",
                     "lap": "35",
@@ -13515,6 +14011,10 @@
                 "grid": "13",
                 "laps": "61",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "6057195",
+                    "time": "+4.624"
+                },
                 "FastestLap": {
                     "rank": "16",
                     "lap": "33",
@@ -13540,7 +14040,7 @@
                     "givenName": "Franco",
                     "familyName": "Colapinto",
                     "dateOfBirth": "2003-05-27",
-                    "nationality": "Argentinian "
+                    "nationality": "Argentine"
                 },
                 "Constructor": {
                     "constructorId": "williams",
@@ -13551,6 +14051,10 @@
                 "grid": "12",
                 "laps": "61",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "6058855",
+                    "time": "+6.284"
+                },
                 "FastestLap": {
                     "rank": "11",
                     "lap": "35",
@@ -13587,6 +14091,10 @@
                 "grid": "8",
                 "laps": "61",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "6061363",
+                    "time": "+8.792"
+                },
                 "FastestLap": {
                     "rank": "6",
                     "lap": "53",
@@ -13623,6 +14131,10 @@
                 "grid": "15",
                 "laps": "61",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "6096576",
+                    "time": "+44.005"
+                },
                 "FastestLap": {
                     "rank": "20",
                     "lap": "48",
@@ -13659,6 +14171,10 @@
                 "grid": "17",
                 "laps": "61",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "6100142",
+                    "time": "+47.571"
+                },
                 "FastestLap": {
                     "rank": "19",
                     "lap": "36",
@@ -13695,6 +14211,10 @@
                 "grid": "20",
                 "laps": "61",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "6109791",
+                    "time": "+57.220"
+                },
                 "FastestLap": {
                     "rank": "14",
                     "lap": "47",
@@ -13731,6 +14251,10 @@
                 "grid": "19",
                 "laps": "61",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "6110400",
+                    "time": "+57.829"
+                },
                 "FastestLap": {
                     "rank": "17",
                     "lap": "46",
@@ -13767,6 +14291,10 @@
                 "grid": "18",
                 "laps": "61",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "6111630",
+                    "time": "+59.059"
+                },
                 "FastestLap": {
                     "rank": "9",
                     "lap": "46",
@@ -13803,6 +14331,10 @@
                 "grid": "16",
                 "laps": "61",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "6142367",
+                    "time": "+1:29.796"
+                },
                 "FastestLap": {
                     "rank": "1",
                     "lap": "60",
@@ -13839,6 +14371,10 @@
                 "grid": "14",
                 "laps": "57",
                 "status": "Accident",
+                "Time": {
+                    "millis": "5811906",
+                    "time": "+-1:55:59.335"
+                },
                 "FastestLap": {
                     "rank": "13",
                     "lap": "52",
@@ -13896,7 +14432,7 @@
         "raceName": "United States Grand Prix",
         "Circuit": {
             "circuitId": "americas",
-            "url": "http://en.wikipedia.org/wiki/Circuit_of_the_Americas",
+            "url": "https://en.wikipedia.org/wiki/Circuit_of_the_Americas",
             "circuitName": "Circuit of the Americas",
             "Location": {
                 "lat": "30.1328",
@@ -14281,7 +14817,7 @@
                     "givenName": "Franco",
                     "familyName": "Colapinto",
                     "dateOfBirth": "2003-05-27",
-                    "nationality": "Argentinian "
+                    "nationality": "Argentine"
                 },
                 "Constructor": {
                     "constructorId": "williams",
@@ -14412,6 +14948,10 @@
                 "grid": "7",
                 "laps": "55",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5711365",
+                    "time": "+1.726"
+                },
                 "FastestLap": {
                     "rank": "17",
                     "lap": "52",
@@ -14448,6 +14988,10 @@
                 "grid": "10",
                 "laps": "55",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5717851",
+                    "time": "+8.212"
+                },
                 "FastestLap": {
                     "rank": "15",
                     "lap": "54",
@@ -14484,6 +15028,10 @@
                 "grid": "13",
                 "laps": "55",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5726622",
+                    "time": "+16.983"
+                },
                 "FastestLap": {
                     "rank": "16",
                     "lap": "54",
@@ -14520,6 +15068,10 @@
                 "grid": "14",
                 "laps": "55",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5727731",
+                    "time": "+18.092"
+                },
                 "FastestLap": {
                     "rank": "14",
                     "lap": "54",
@@ -14556,6 +15108,10 @@
                 "grid": "16",
                 "laps": "55",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5743972",
+                    "time": "+34.333"
+                },
                 "FastestLap": {
                     "rank": "19",
                     "lap": "53",
@@ -14592,6 +15148,10 @@
                 "grid": "12",
                 "laps": "55",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5751751",
+                    "time": "+42.112"
+                },
                 "FastestLap": {
                     "rank": "1",
                     "lap": "53",
@@ -14628,6 +15188,10 @@
                 "grid": "18",
                 "laps": "55",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5758879",
+                    "time": "+49.240"
+                },
                 "FastestLap": {
                     "rank": "18",
                     "lap": "53",
@@ -14674,7 +15238,7 @@
         "raceName": "Mexico City Grand Prix",
         "Circuit": {
             "circuitId": "rodriguez",
-            "url": "http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez",
+            "url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Hermanos_Rodr%C3%ADguez",
             "circuitName": "Autódromo Hermanos Rodríguez",
             "Location": {
                 "lat": "19.4042",
@@ -15030,6 +15594,10 @@
                 "grid": "10",
                 "laps": "70",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "6058520",
+                    "time": "+2.720"
+                },
                 "FastestLap": {
                     "rank": "12",
                     "lap": "69",
@@ -15066,6 +15634,10 @@
                 "grid": "8",
                 "laps": "70",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "6074387",
+                    "time": "+18.587"
+                },
                 "FastestLap": {
                     "rank": "15",
                     "lap": "67",
@@ -15102,6 +15674,10 @@
                 "grid": "14",
                 "laps": "70",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "6080872",
+                    "time": "+25.072"
+                },
                 "FastestLap": {
                     "rank": "16",
                     "lap": "55",
@@ -15127,7 +15703,7 @@
                     "givenName": "Franco",
                     "familyName": "Colapinto",
                     "dateOfBirth": "2003-05-27",
-                    "nationality": "Argentinian "
+                    "nationality": "Argentine"
                 },
                 "Constructor": {
                     "constructorId": "williams",
@@ -15138,6 +15714,10 @@
                 "grid": "16",
                 "laps": "70",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "6093297",
+                    "time": "+37.497"
+                },
                 "FastestLap": {
                     "rank": "6",
                     "lap": "50",
@@ -15174,6 +15754,10 @@
                 "grid": "0",
                 "laps": "70",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "6095463",
+                    "time": "+39.663"
+                },
                 "FastestLap": {
                     "rank": "10",
                     "lap": "70",
@@ -15210,6 +15794,10 @@
                 "grid": "15",
                 "laps": "70",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "6098027",
+                    "time": "+42.227"
+                },
                 "FastestLap": {
                     "rank": "14",
                     "lap": "57",
@@ -15246,6 +15834,10 @@
                 "grid": "19",
                 "laps": "70",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "6117522",
+                    "time": "+1:01.722"
+                },
                 "FastestLap": {
                     "rank": "17",
                     "lap": "56",
@@ -15282,6 +15874,10 @@
                 "grid": "12",
                 "laps": "70",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "6120266",
+                    "time": "+1:04.466"
+                },
                 "FastestLap": {
                     "rank": "3",
                     "lap": "67",
@@ -15318,6 +15914,10 @@
                 "grid": "18",
                 "laps": "70",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "6129084",
+                    "time": "+1:13.284"
+                },
                 "FastestLap": {
                     "rank": "2",
                     "lap": "70",
@@ -15425,7 +16025,7 @@
         "raceName": "São Paulo Grand Prix",
         "Circuit": {
             "circuitId": "interlagos",
-            "url": "http://en.wikipedia.org/wiki/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace",
+            "url": "https://en.wikipedia.org/wiki/Interlagos_Circuit",
             "circuitName": "Autódromo José Carlos Pace",
             "Location": {
                 "lat": "-23.7036",
@@ -16086,7 +16686,7 @@
                     "givenName": "Franco",
                     "familyName": "Colapinto",
                     "dateOfBirth": "2003-05-27",
-                    "nationality": "Argentinian "
+                    "nationality": "Argentine"
                 },
                 "Constructor": {
                     "constructorId": "williams",
@@ -16210,7 +16810,7 @@
                 "lat": "36.1147",
                 "long": "-115.173",
                 "locality": "Las Vegas",
-                "country": "United States"
+                "country": "USA"
             }
         },
         "date": "2024-11-23",
@@ -16749,7 +17349,7 @@
                     "givenName": "Franco",
                     "familyName": "Colapinto",
                     "dateOfBirth": "2003-05-27",
-                    "nationality": "Argentinian "
+                    "nationality": "Argentine"
                 },
                 "Constructor": {
                     "constructorId": "williams",
@@ -16880,6 +17480,10 @@
                 "grid": "11",
                 "laps": "49",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "4928029",
+                    "time": "+2.060"
+                },
                 "FastestLap": {
                     "rank": "9",
                     "lap": "47",
@@ -16916,6 +17520,10 @@
                 "grid": "19",
                 "laps": "49",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "4937254",
+                    "time": "+11.285"
+                },
                 "FastestLap": {
                     "rank": "14",
                     "lap": "46",
@@ -17009,7 +17617,7 @@
         "raceName": "Qatar Grand Prix",
         "Circuit": {
             "circuitId": "losail",
-            "url": "http://en.wikipedia.org/wiki/Losail_International_Circuit",
+            "url": "https://en.wikipedia.org/wiki/Lusail_International_Circuit",
             "circuitName": "Losail International Circuit",
             "Location": {
                 "lat": "25.49",
@@ -17019,7 +17627,7 @@
             }
         },
         "date": "2024-12-01",
-        "time": "17:00:00Z",
+        "time": "16:00:00Z",
         "Results": [
             {
                 "number": "1",
@@ -17605,6 +18213,10 @@
                 "grid": "16",
                 "laps": "56",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5478292",
+                    "time": "+12.969"
+                },
                 "FastestLap": {
                     "rank": "14",
                     "lap": "47",
@@ -17738,7 +18350,7 @@
                     "givenName": "Franco",
                     "familyName": "Colapinto",
                     "dateOfBirth": "2003-05-27",
-                    "nationality": "Argentinian "
+                    "nationality": "Argentine"
                 },
                 "Constructor": {
                     "constructorId": "williams",
@@ -17784,7 +18396,7 @@
         "raceName": "Abu Dhabi Grand Prix",
         "Circuit": {
             "circuitId": "yas_marina",
-            "url": "http://en.wikipedia.org/wiki/Yas_Marina_Circuit",
+            "url": "https://en.wikipedia.org/wiki/Yas_Marina_Circuit",
             "circuitName": "Yas Marina Circuit",
             "Location": {
                 "lat": "24.4672",
@@ -18220,6 +18832,10 @@
                 "grid": "18",
                 "laps": "57",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5204542",
+                    "time": "+11.251"
+                },
                 "FastestLap": {
                     "rank": "18",
                     "lap": "46",
@@ -18256,6 +18872,10 @@
                 "grid": "11",
                 "laps": "57",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5208029",
+                    "time": "+14.738"
+                },
                 "FastestLap": {
                     "rank": "15",
                     "lap": "41",
@@ -18292,6 +18912,10 @@
                 "grid": "15",
                 "laps": "57",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5210595",
+                    "time": "+17.304"
+                },
                 "FastestLap": {
                     "rank": "8",
                     "lap": "56",
@@ -18328,6 +18952,10 @@
                 "grid": "13",
                 "laps": "57",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5211764",
+                    "time": "+18.473"
+                },
                 "FastestLap": {
                     "rank": "11",
                     "lap": "42",
@@ -18364,6 +18992,10 @@
                 "grid": "17",
                 "laps": "57",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5219846",
+                    "time": "+26.555"
+                },
                 "FastestLap": {
                     "rank": "13",
                     "lap": "56",
@@ -18400,6 +19032,10 @@
                 "grid": "14",
                 "laps": "57",
                 "status": "+1 Lap",
+                "Time": {
+                    "millis": "5270888",
+                    "time": "+1:17.597"
+                },
                 "FastestLap": {
                     "rank": "1",
                     "lap": "57",
@@ -18436,6 +19072,10 @@
                 "grid": "12",
                 "laps": "55",
                 "status": "Engine",
+                "Time": {
+                    "millis": "5076949",
+                    "time": "+-1:58:03.658"
+                },
                 "FastestLap": {
                     "rank": "12",
                     "lap": "52",
@@ -18497,7 +19137,7 @@
                     "givenName": "Franco",
                     "familyName": "Colapinto",
                     "dateOfBirth": "2003-05-27",
-                    "nationality": "Argentinian "
+                    "nationality": "Argentine"
                 },
                 "Constructor": {
                     "constructorId": "williams",

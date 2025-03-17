@@ -1,8 +1,28 @@
 import requests, json, os, datetime, math, numpy as np, shutil
 from datetime import datetime as dt
 
-# api_url = 'https://api.jolpi.ca/ergast/f1'
-api_url = 'http://ergast.com/api/f1'
+api_url = 'https://api.jolpi.ca/ergast/f1'
+# api_url = 'http://ergast.com/api/f1'
+
+def get_race_details(season):
+    """Ensures race details exist and returns the race data for the given season."""
+    race_dir = f'races/{season}'
+    race_details_path = f'{race_dir}/raceDetails.json'
+
+    # Ensure the directory exists
+    if not os.path.exists(race_dir):
+        print(f"Creating missing directory: {race_dir}")
+        os.makedirs(race_dir)
+
+    # Ensure raceDetails.json exists
+    if not os.path.exists(race_details_path):
+        print(f"Creating new raceDetails.json for {season}")
+        with open(race_details_path, 'w', encoding='utf-8') as file:
+            json.dump([], file, indent=4)  # Empty JSON array
+
+    # Load and return the race details
+    with open(race_details_path, 'r', encoding='utf-8') as file:
+        return json.load(file)
 
 class NpEncoder(json.JSONEncoder):
     def default(self, obj):
@@ -15,7 +35,7 @@ class NpEncoder(json.JSONEncoder):
         return super(NpEncoder, self).default(obj)
 
 def update_constructors():
-    season = 2024
+    season = 2025
     response = requests.get(f'{api_url}/{season}/constructors.json')
     if response.status_code==200:
         responsedata = response.json()
@@ -35,9 +55,9 @@ def update_constructors():
         print(response.status_code)
 
 def update_constructor_drivers():
-    season = 2024
+    season = 2025
 
-    with open(f'constructors/{2024}.json', 'r', encoding='utf-8') as file:
+    with open(f'constructors/{2025}.json', 'r', encoding='utf-8') as file:
         data = json.load(file)
 
     def fetchDrivers(team):
@@ -46,6 +66,9 @@ def update_constructor_drivers():
         if response.status_code==200:
             responsedata = response.json()
             drivers = responsedata["MRData"]["DriverTable"]["Drivers"]
+            constructors_dir = f'constructors/{season}'
+            if not os.path.exists(constructors_dir):
+                os.makedirs(constructors_dir)
             with open(f'constructors/{season}/{team}.json', 'w', encoding='utf-8') as file:
                 json.dump(drivers, file, ensure_ascii=False, indent=4)
         else:
@@ -57,20 +80,18 @@ def update_constructor_drivers():
 
     print("Constructor drivers updated successfully!")
 
+import os
+import datetime
+import json
+import requests
+
 def update_driverData():
-    import os
-    import datetime
-    import json
-    import requests
-
     url1 = f'{api_url}/current/last/results.json'
-
     response1 = requests.get(url1)
 
-    input_directory = 'drivers/'
-    output_directory = 'drivers2/'
-    if not os.path.exists(output_directory):
-        os.makedirs(output_directory)
+    input_directory = 'drivers/'  # Use only this directory
+    if not os.path.exists(input_directory):
+        os.makedirs(input_directory)  # Ensure the directory exists
 
     if response1.status_code == 200:
         responsedata1 = response1.json()
@@ -83,13 +104,35 @@ def update_driverData():
 
         for result in results:
             driverId = result["Driver"]["driverId"]
-            input_file = os.path.join(input_directory, f'{driverId}.json')
-            output_file = os.path.join(output_directory, f'{driverId}.json')
+            driver_file = os.path.join(input_directory, f'{driverId}.json')
 
-            # Load driver data from the input file
-            with open(input_file, 'r', encoding='utf-8') as file:
-                data = json.load(file)
-            
+            # Check if the driver file exists; if not, create a default structure
+            if os.path.exists(driver_file):
+                with open(driver_file, 'r', encoding='utf-8') as file:
+                    data = json.load(file)
+            else:
+                data = {
+                    "driverId": driverId,
+                    "seasonWins": {},
+                    "seasonPodiums": {},
+                    "seasonPoles": {},
+                    "seasonDNFs": {},
+                    "fastLaps": {},
+                    "DNFs": {},
+                    "podiums": {},
+                    "racePosition": {},
+                    "qualiPosition": {},
+                    "driverQualifyingTimes": {},
+                    "finalStandings": {},
+                    "posAfterRace": {},
+                    "poles": [],
+                    "totalWins": 0,
+                    "totalPodiums": 0,
+                    "totalPoles": 0,
+                    "totalDNFs": 0,
+                }
+                print(f"Creating new driver file: {driver_file}")
+
             # Update last update time
             data["lastUpdate"] = datetime.datetime.now().isoformat()
 
@@ -134,6 +177,8 @@ def update_driverData():
                     "year": season,
                     "pos": {}
                 }
+            if isinstance(data["poles"], list):  
+                data["poles"] = {}  
             if season not in data["poles"]:
                 data["poles"][season] = []
 
@@ -161,48 +206,14 @@ def update_driverData():
 
             data["qualiPosition"][season]["positions"][raceName] = result["grid"]
 
-            # Update driver standings
-            url2 = f'{api_url}/current/drivers/{driverId}/driverStandings.json'
-            response2 = requests.get(url2)
-            if response2.status_code == 200:
-                responsedata2 = response2.json()
-                driverStanding = responsedata2["MRData"]["StandingsTable"]["StandingsLists"][0]["DriverStandings"][0]
-                data["finalStandings"][season]["position"] = driverStanding["position"]
-                data["finalStandings"][season]["points"] = driverStanding["points"]
-                data["posAfterRace"][season]["pos"][raceName] = {"points": int(driverStanding["points"])}
-            else:
-                print("url2", response2.status_code)
-
-            # Update qualifying results
-            url3 = f'{api_url}/current/drivers/{driverId}/qualifying.json'
-            response3 = requests.get(url3)
-            if response3.status_code == 200:
-                responsedata3 = response3.json()
-                qualifyings = responsedata3["MRData"]["RaceTable"]["Races"]
-                for qualifyingit in reversed(qualifyings):
-                    if qualifyingit["round"] == round:
-                        qualifying = qualifyingit["QualifyingResults"][0]
-                        if qualifying["position"] == "1":
-                            if raceName not in data["poles"][season]:
-                                data["poles"][season].append(raceName)
-                            data["seasonPoles"][season] = len(data["poles"][season])
-                            data["totalPoles"] = sum(data["seasonPoles"].values())
-
-                        val1 = qualifying.get("Q1", "N/A")
-                        val2 = qualifying.get("Q2", "N/A")
-                        val3 = qualifying.get("Q3", "N/A")
-                        data["driverQualifyingTimes"][season]["QualiTimes"][raceName] = [val1, val2, val3]
-                        break
-            else:
-                print("url3", response3.status_code)
-
-            # Save updated data to output file
-            with open(output_file, "w", encoding='utf-8') as f:
+            # Save updated data to the same `drivers/` directory
+            with open(driver_file, "w", encoding='utf-8') as f:
                 json.dump(data, f, indent=4, ensure_ascii=False)
 
             drivers_done += 1
-            print(drivers_done, output_file)
+            print(drivers_done, driver_file)
             print("------------------------------")
+
     else:
         print(response1.status_code)
 
@@ -459,13 +470,16 @@ def replace_NaN():
     print("Replaced NaNs in Driver Data!")
 
 def update_races():
-    season = 2024
+    season = 2025
 
     response = requests.get(f'https://api.openf1.org/v1/meetings?year={season}')
     if response.status_code==200:
         responsedata = response.json()
         with open('races/races.json', 'r', encoding='utf-8') as file:
             data = json.load(file)
+        if str(season) not in data:
+            print(f"Creating new season entry for {season} in races.json")
+            data[str(season)] = {} 
         if(len(data[str(season)].values())!=len(responsedata)):
             currentRace = responsedata[-1]
             data[str(season)][currentRace["meeting_name"]] = {}
@@ -485,9 +499,8 @@ def update_races():
     print("Race Details updated successfully!")
 
 def update_raceResults():
-    for season in [2024]:
-        with open(f'races/{season}/raceDetails.json','r',encoding='utf-8') as file:
-                races = json.load(file)
+    for season in [2025]:
+        races = get_race_details(season)
         result = []
         for race in races:
             if dt.strptime(race['date'], '%Y-%m-%d') < dt.now():
@@ -506,9 +519,8 @@ def update_raceResults():
     print("Race Results updated successfully!")
 
 def update_qualifying():
-    for season in [2024]:
-        with open(f'races/{season}/raceDetails.json','r',encoding='utf-8') as file:
-            races = json.load(file)
+    for season in [2025]:
+        races = get_race_details(season)
         result = []
         for race in races:
             if dt.strptime(race['date'], '%Y-%m-%d') < dt.now():
@@ -527,9 +539,8 @@ def update_qualifying():
     print("Qualifying results updated successfully!")
 
 def update_driverStandings():
-    for season in [2024]:
-        with open(f'races/{season}/raceDetails.json', 'r', encoding='utf-8') as file:
-            races = json.load(file)
+    for season in [2025]:
+        races = get_race_details(season)
         result = {}
         for race in races:
             if dt.strptime(race['date'],'%Y-%m-%d') < dt.now():
@@ -551,9 +562,8 @@ def update_driverStandings():
     print('Driver Standings updated successfully!')
 
 def update_constructorStandings():
-    for season in [2024]:
-        with open(f'races/{season}/raceDetails.json', 'r', encoding='utf-8') as file:
-            races = json.load(file)
+    for season in [2025]:
+        races = get_race_details(season)
         result = {}
         for race in races:
             if dt.strptime(race['date'],'%Y-%m-%d') < dt.now():

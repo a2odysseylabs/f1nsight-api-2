@@ -2,7 +2,7 @@
     "driverId": "gasly",
     "driverCode": "GAS",
     "driverNumber": "10",
-    "lastUpdate": "2025-03-11T20:04:56.787810",
+    "lastUpdate": "2025-03-16T21:02:44.223310",
     "totalWins": 1,
     "totalPodiums": 5,
     "totalPoles": 0,
@@ -15,7 +15,8 @@
         "2021": 0,
         "2022": 0,
         "2023": 0,
-        "2024": 0
+        "2024": 0,
+        "2025": 0
     },
     "seasonPodiums": {
         "2017": 0,
@@ -25,7 +26,8 @@
         "2021": 1,
         "2022": 0,
         "2023": 1,
-        "2024": 1
+        "2024": 1,
+        "2025": 0
     },
     "seasonPoles": {
         "2017": 0,
@@ -35,7 +37,8 @@
         "2021": 0,
         "2022": 0,
         "2023": 0,
-        "2024": 0
+        "2024": 0,
+        "2025": 0
     },
     "seasonDNFs": {
         "2017": 0,
@@ -45,7 +48,8 @@
         "2021": 4,
         "2022": 3,
         "2023": 3,
-        "2024": 4
+        "2024": 4,
+        "2025": 0
     },
     "poles": {
         "2017": [],
@@ -55,7 +59,8 @@
         "2021": [],
         "2022": [],
         "2023": [],
-        "2024": []
+        "2024": [],
+        "2025": []
     },
     "podiums": {
         "2017": {},
@@ -75,7 +80,8 @@
         },
         "2024": {
             "São Paulo Grand Prix": "3"
-        }
+        },
+        "2025": {}
     },
     "DNFs": {
         "2017": {},
@@ -117,7 +123,8 @@
             "British Grand Prix": "Gearbox",
             "Hungarian Grand Prix": "Hydraulics",
             "Las Vegas Grand Prix": "Engine"
-        }
+        },
+        "2025": {}
     },
     "fastLaps": {
         "2017": {
@@ -281,6 +288,9 @@
             "Las Vegas Grand Prix": "1:38.314",
             "Qatar Grand Prix": "1:23.705",
             "Abu Dhabi Grand Prix": "1:29.251"
+        },
+        "2025": {
+            "Australian Grand Prix": "1:25.020"
         }
     },
     "finalStandings": {
@@ -323,6 +333,11 @@
             "year": "2024",
             "position": "10",
             "points": "42"
+        },
+        "2025": {
+            "year": "2025",
+            "position": "0",
+            "points": "0"
         }
     },
     "posAfterRace": {
@@ -827,6 +842,10 @@
                     "points": 42
                 }
             }
+        },
+        "2025": {
+            "year": "2025",
+            "pos": {}
         }
     },
     "racePosition": {
@@ -1023,6 +1042,12 @@
                 "Qatar Grand Prix": "5",
                 "Abu Dhabi Grand Prix": "7"
             }
+        },
+        "2025": {
+            "year": "2025",
+            "positions": {
+                "Australian Grand Prix": "11"
+            }
         }
     },
     "qualiPosition": {
@@ -1217,6 +1242,12 @@
                 "Las Vegas Grand Prix": "3",
                 "Qatar Grand Prix": "11",
                 "Abu Dhabi Grand Prix": "5"
+            }
+        },
+        "2025": {
+            "year": "2025",
+            "positions": {
+                "Australian Grand Prix": "9"
             }
         }
     },
@@ -2025,6 +2056,10 @@
                     "1:22.984"
                 ]
             }
+        },
+        "2025": {
+            "year": "2025",
+            "QualiTimes": {}
         }
     },
     "consistency": {

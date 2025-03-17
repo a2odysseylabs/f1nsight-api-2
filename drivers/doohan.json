@@ -2,41 +2,58 @@
     "driverId": "doohan",
     "driverCode": "DOO",
     "driverNumber": "7",
-    "lastUpdate": "2025-03-11T20:05:21.117703",
+    "lastUpdate": "2025-03-16T21:02:44.241488",
     "totalWins": 0,
     "totalPodiums": 0,
     "totalPoles": 0,
-    "totalDNFs": 0,
+    "totalDNFs": 1,
     "seasonWins": {
-        "2024": 0
+        "2024": 0,
+        "2025": 0
     },
     "seasonPodiums": {
-        "2024": 0
+        "2024": 0,
+        "2025": 0
     },
     "seasonPoles": {
-        "2024": 0
+        "2024": 0,
+        "2025": 0
     },
     "seasonDNFs": {
-        "2024": 0
+        "2024": 0,
+        "2025": 1
     },
     "poles": {
-        "2024": []
+        "2024": [],
+        "2025": []
     },
     "podiums": {
-        "2024": {}
+        "2024": {},
+        "2025": {}
     },
     "DNFs": {
-        "2024": {}
+        "2024": {},
+        "2025": {
+            "Australian Grand Prix": "Retired"
+        }
     },
     "fastLaps": {
         "2024": {
             "Abu Dhabi Grand Prix": "1:29.121"
+        },
+        "2025": {
+            "Australian Grand Prix": -1
         }
     },
     "finalStandings": {
         "2024": {
             "year": "2024",
             "position": "24",
+            "points": "0"
+        },
+        "2025": {
+            "year": "2025",
+            "position": "0",
             "points": "0"
         }
     },
@@ -48,6 +65,10 @@
                     "points": 0
                 }
             }
+        },
+        "2025": {
+            "year": "2025",
+            "pos": {}
         }
     },
     "racePosition": {
@@ -56,6 +77,12 @@
             "positions": {
                 "Abu Dhabi Grand Prix": "15"
             }
+        },
+        "2025": {
+            "year": "2025",
+            "positions": {
+                "Australian Grand Prix": "19"
+            }
         }
     },
     "qualiPosition": {
@@ -63,6 +90,12 @@
             "year": "2024",
             "positions": {
                 "Abu Dhabi Grand Prix": "17"
+            }
+        },
+        "2025": {
+            "year": "2025",
+            "positions": {
+                "Australian Grand Prix": "14"
             }
         }
     },
@@ -76,6 +109,10 @@
                     "N/A"
                 ]
             }
+        },
+        "2025": {
+            "year": "2025",
+            "QualiTimes": {}
         }
     },
     "consistency": {

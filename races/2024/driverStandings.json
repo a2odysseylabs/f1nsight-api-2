@@ -3297,6 +3297,12 @@
                     "url": "http://en.wikipedia.org/wiki/Scuderia_Ferrari",
                     "name": "Ferrari",
                     "nationality": "Italian"
+                },
+                {
+                    "constructorId": "haas",
+                    "url": "http://en.wikipedia.org/wiki/Haas_F1_Team",
+                    "name": "Haas F1 Team",
+                    "nationality": "American"
                 }
             ]
         },
@@ -3803,6 +3809,12 @@
                     "url": "http://en.wikipedia.org/wiki/Scuderia_Ferrari",
                     "name": "Ferrari",
                     "nationality": "Italian"
+                },
+                {
+                    "constructorId": "haas",
+                    "url": "http://en.wikipedia.org/wiki/Haas_F1_Team",
+                    "name": "Haas F1 Team",
+                    "nationality": "American"
                 }
             ]
         },
@@ -4333,6 +4345,12 @@
                     "url": "http://en.wikipedia.org/wiki/Scuderia_Ferrari",
                     "name": "Ferrari",
                     "nationality": "Italian"
+                },
+                {
+                    "constructorId": "haas",
+                    "url": "http://en.wikipedia.org/wiki/Haas_F1_Team",
+                    "name": "Haas F1 Team",
+                    "nationality": "American"
                 }
             ]
         },
@@ -4839,6 +4857,12 @@
                     "url": "http://en.wikipedia.org/wiki/Scuderia_Ferrari",
                     "name": "Ferrari",
                     "nationality": "Italian"
+                },
+                {
+                    "constructorId": "haas",
+                    "url": "http://en.wikipedia.org/wiki/Haas_F1_Team",
+                    "name": "Haas F1 Team",
+                    "nationality": "American"
                 }
             ]
         },
@@ -5369,6 +5393,12 @@
                     "url": "http://en.wikipedia.org/wiki/Scuderia_Ferrari",
                     "name": "Ferrari",
                     "nationality": "Italian"
+                },
+                {
+                    "constructorId": "haas",
+                    "url": "http://en.wikipedia.org/wiki/Haas_F1_Team",
+                    "name": "Haas F1 Team",
+                    "nationality": "American"
                 }
             ]
         },
@@ -5875,6 +5905,12 @@
                     "url": "http://en.wikipedia.org/wiki/Scuderia_Ferrari",
                     "name": "Ferrari",
                     "nationality": "Italian"
+                },
+                {
+                    "constructorId": "haas",
+                    "url": "http://en.wikipedia.org/wiki/Haas_F1_Team",
+                    "name": "Haas F1 Team",
+                    "nationality": "American"
                 }
             ]
         },
@@ -6381,6 +6417,12 @@
                     "url": "http://en.wikipedia.org/wiki/Scuderia_Ferrari",
                     "name": "Ferrari",
                     "nationality": "Italian"
+                },
+                {
+                    "constructorId": "haas",
+                    "url": "http://en.wikipedia.org/wiki/Haas_F1_Team",
+                    "name": "Haas F1 Team",
+                    "nationality": "American"
                 }
             ]
         },
@@ -6887,6 +6929,12 @@
                     "url": "http://en.wikipedia.org/wiki/Scuderia_Ferrari",
                     "name": "Ferrari",
                     "nationality": "Italian"
+                },
+                {
+                    "constructorId": "haas",
+                    "url": "http://en.wikipedia.org/wiki/Haas_F1_Team",
+                    "name": "Haas F1 Team",
+                    "nationality": "American"
                 }
             ]
         },
@@ -7417,6 +7465,12 @@
                     "url": "http://en.wikipedia.org/wiki/Scuderia_Ferrari",
                     "name": "Ferrari",
                     "nationality": "Italian"
+                },
+                {
+                    "constructorId": "haas",
+                    "url": "http://en.wikipedia.org/wiki/Haas_F1_Team",
+                    "name": "Haas F1 Team",
+                    "nationality": "American"
                 }
             ]
         },
@@ -7923,6 +7977,12 @@
                     "url": "http://en.wikipedia.org/wiki/Scuderia_Ferrari",
                     "name": "Ferrari",
                     "nationality": "Italian"
+                },
+                {
+                    "constructorId": "haas",
+                    "url": "http://en.wikipedia.org/wiki/Haas_F1_Team",
+                    "name": "Haas F1 Team",
+                    "nationality": "American"
                 }
             ]
         },
@@ -8059,7 +8119,7 @@
                 "givenName": "Franco",
                 "familyName": "Colapinto",
                 "dateOfBirth": "2003-05-27",
-                "nationality": "Argentinian "
+                "nationality": "Argentine"
             },
             "Constructors": [
                 {
@@ -8547,7 +8607,7 @@
                 "givenName": "Franco",
                 "familyName": "Colapinto",
                 "dateOfBirth": "2003-05-27",
-                "nationality": "Argentinian "
+                "nationality": "Argentine"
             },
             "Constructors": [
                 {
@@ -9083,7 +9143,7 @@
                 "givenName": "Franco",
                 "familyName": "Colapinto",
                 "dateOfBirth": "2003-05-27",
-                "nationality": "Argentinian "
+                "nationality": "Argentine"
             },
             "Constructors": [
                 {
@@ -9595,7 +9655,7 @@
                 "givenName": "Franco",
                 "familyName": "Colapinto",
                 "dateOfBirth": "2003-05-27",
-                "nationality": "Argentinian "
+                "nationality": "Argentine"
             },
             "Constructors": [
                 {
@@ -10155,7 +10215,7 @@
                 "givenName": "Franco",
                 "familyName": "Colapinto",
                 "dateOfBirth": "2003-05-27",
-                "nationality": "Argentinian "
+                "nationality": "Argentine"
             },
             "Constructors": [
                 {
@@ -10739,7 +10799,7 @@
                 "givenName": "Franco",
                 "familyName": "Colapinto",
                 "dateOfBirth": "2003-05-27",
-                "nationality": "Argentinian "
+                "nationality": "Argentine"
             },
             "Constructors": [
                 {
@@ -11299,7 +11359,7 @@
                 "givenName": "Franco",
                 "familyName": "Colapinto",
                 "dateOfBirth": "2003-05-27",
-                "nationality": "Argentinian "
+                "nationality": "Argentine"
             },
             "Constructors": [
                 {
@@ -11859,7 +11919,7 @@
                 "givenName": "Franco",
                 "familyName": "Colapinto",
                 "dateOfBirth": "2003-05-27",
-                "nationality": "Argentinian "
+                "nationality": "Argentine"
             },
             "Constructors": [
                 {
@@ -12419,7 +12479,7 @@
                 "givenName": "Franco",
                 "familyName": "Colapinto",
                 "dateOfBirth": "2003-05-27",
-                "nationality": "Argentinian "
+                "nationality": "Argentine"
             },
             "Constructors": [
                 {

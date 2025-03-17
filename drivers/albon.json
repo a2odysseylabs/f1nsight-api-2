@@ -2,7 +2,7 @@
     "driverId": "albon",
     "driverCode": "ALB",
     "driverNumber": "23",
-    "lastUpdate": "2025-03-11T20:05:10.102117",
+    "lastUpdate": "2025-03-16T21:02:44.201290",
     "totalWins": 0,
     "totalPodiums": 2,
     "totalPoles": 0,
@@ -12,35 +12,40 @@
         "2020": 0,
         "2022": 0,
         "2023": 0,
-        "2024": 0
+        "2024": 0,
+        "2025": 0
     },
     "seasonPodiums": {
         "2019": 0,
         "2020": 2,
         "2022": 0,
         "2023": 0,
-        "2024": 0
+        "2024": 0,
+        "2025": 0
     },
     "seasonPoles": {
         "2019": 0,
         "2020": 0,
         "2022": 0,
         "2023": 0,
-        "2024": 0
+        "2024": 0,
+        "2025": 0
     },
     "seasonDNFs": {
         "2019": 1,
         "2020": 2,
         "2022": 5,
         "2023": 4,
-        "2024": 7
+        "2024": 7,
+        "2025": 0
     },
     "poles": {
         "2019": [],
         "2020": [],
         "2022": [],
         "2023": [],
-        "2024": []
+        "2024": [],
+        "2025": []
     },
     "podiums": {
         "2019": {},
@@ -50,7 +55,8 @@
         },
         "2022": {},
         "2023": {},
-        "2024": {}
+        "2024": {},
+        "2025": {}
     },
     "DNFs": {
         "2019": {
@@ -81,7 +87,8 @@
             "Mexico City Grand Prix": "Collision",
             "São Paulo Grand Prix": "Withdrew",
             "Las Vegas Grand Prix": "Radiator"
-        }
+        },
+        "2025": {}
     },
     "fastLaps": {
         "2019": {
@@ -193,6 +200,9 @@
             "Las Vegas Grand Prix": "1:38.008",
             "Qatar Grand Prix": "1:25.559",
             "Abu Dhabi Grand Prix": "1:29.438"
+        },
+        "2025": {
+            "Australian Grand Prix": "1:24.597"
         }
     },
     "finalStandings": {
@@ -220,6 +230,11 @@
             "year": "2024",
             "position": "16",
             "points": "12"
+        },
+        "2025": {
+            "year": "2025",
+            "position": "0",
+            "points": "0"
         }
     },
     "posAfterRace": {
@@ -562,6 +577,10 @@
                     "points": 12
                 }
             }
+        },
+        "2025": {
+            "year": "2025",
+            "pos": {}
         }
     },
     "racePosition": {
@@ -694,6 +713,12 @@
                 "Qatar Grand Prix": "15",
                 "Abu Dhabi Grand Prix": "11"
             }
+        },
+        "2025": {
+            "year": "2025",
+            "positions": {
+                "Australian Grand Prix": "5"
+            }
         }
     },
     "qualiPosition": {
@@ -824,6 +849,12 @@
                 "Las Vegas Grand Prix": "17",
                 "Qatar Grand Prix": "16",
                 "Abu Dhabi Grand Prix": "18"
+            }
+        },
+        "2025": {
+            "year": "2025",
+            "positions": {
+                "Australian Grand Prix": "6"
             }
         }
     },
@@ -1372,6 +1403,10 @@
                     "N/A"
                 ]
             }
+        },
+        "2025": {
+            "year": "2025",
+            "QualiTimes": {}
         }
     },
     "consistency": {
