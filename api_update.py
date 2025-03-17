@@ -14,11 +14,23 @@ def get_race_details(season):
         print(f"Creating missing directory: {race_dir}")
         os.makedirs(race_dir)
 
-    # Ensure raceDetails.json exists
-    if not os.path.exists(race_details_path):
-        print(f"Creating new raceDetails.json for {season}")
-        with open(race_details_path, 'w', encoding='utf-8') as file:
-            json.dump([], file, indent=4)  # Empty JSON array
+    # If raceDetails.json doesn't exist or is empty, fetch from API
+    if not os.path.exists(race_details_path) or os.stat(race_details_path).st_size == 0:
+        print(f"Fetching race details from API for {season}...")
+        response = requests.get(f'{api_url}/{season}/races.json')
+
+        if response.status_code == 200:
+            responsedata = response.json()
+            races = responsedata["MRData"]["RaceTable"]["Races"]
+
+            with open(race_details_path, 'w', encoding='utf-8') as file:
+                json.dump(races, file, indent=4, ensure_ascii=False)
+
+            return races  # Return fetched data
+
+        else:
+            print(f"Error fetching race details: {response.status_code}")
+            return []  # Return empty list if API fails
 
     # Load and return the race details
     with open(race_details_path, 'r', encoding='utf-8') as file:
